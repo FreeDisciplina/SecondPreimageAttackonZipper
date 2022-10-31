@@ -1,0 +1,265 @@
+===============================================================================================
+ n = 16
+===============================================================================================
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 0 start...
+Frequency: 0.45
+Frequency: 0.14
+Detect Largest Tree Root # Function Calls: 2^---------------------------------------------17.3685
+Detect Largest Tree Root Takes time: -----------------------------------------------------0.0007 mins.
+
+Precomputation # Function Calls: 2^-------------------------------------------------------11.0901
+Precomputation Takes time: ---------------------------------------------------------------1.66667e-05 mins.
+
+Joux's multiCollision # Function Calls: 2^------------------------------------------------11.8914
+Joux's multiCollision Takes time: --------------------------------------------------------0.000116667 mins.
+
+simExpandM: success
+Simultaneous Expandable Massage # Function Calls: 2^--------------------------------------16.9854
+Simultaneous Expandable Massage Takes time: ----------------------------------------------0.00351667 mins.
+
+Hitting state in the second pass ---------------------------------------------------------Success.
+Hitting state in the second passHitting state in the second pass # Function Calls: 2^-----10.314
+Hitting state in the second pass Takes time: ---------------------------------------------1.66667e-05 mins.
+
+Hitting two roots Simultaneously ---------------------------------------------------------Failure.
+Hitting two roots Simultaneously # Function Calls: 2^-------------------------------------12.4149
+Hitting two roots Simultaneously Takes time: ---------------------------------------------3.33333e-05 mins.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 0 end with Failure.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 1 start...
+Frequency: 0.43
+Frequency: 0.17
+Detect Largest Tree Root # Function Calls: 2^---------------------------------------------17.2918
+Detect Largest Tree Root Takes time: -----------------------------------------------------0.000716667 mins.
+
+Precomputation # Function Calls: 2^-------------------------------------------------------11.0607
+Precomputation Takes time: ---------------------------------------------------------------3.33333e-05 mins.
+
+Joux's multiCollision # Function Calls: 2^------------------------------------------------11.8914
+Joux's multiCollision Takes time: --------------------------------------------------------0.0001 mins.
+
+simExpandM: success
+Simultaneous Expandable Massage # Function Calls: 2^--------------------------------------16.9854
+Simultaneous Expandable Massage Takes time: ----------------------------------------------0.00361667 mins.
+
+Hitting state in the second pass ---------------------------------------------------------Success.
+Hitting state in the second passHitting state in the second pass # Function Calls: 2^-----10.8329
+Hitting state in the second pass Takes time: ---------------------------------------------3.33333e-05 mins.
+
+Hitting two roots Simultaneously ---------------------------------------------------------Success.
+Hitting two roots Simultaneously # Function Calls: 2^-------------------------------------11.6795
+Hitting two roots Simultaneously Takes time: ---------------------------------------------1.66667e-05 mins.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 1 end with Success.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 2 start...
+Frequency: 0.42
+Frequency: 0.14
+Detect Largest Tree Root # Function Calls: 2^---------------------------------------------17.3443
+Detect Largest Tree Root Takes time: -----------------------------------------------------0.000733333 mins.
+
+Precomputation # Function Calls: 2^-------------------------------------------------------11.0748
+Precomputation Takes time: ---------------------------------------------------------------1.66667e-05 mins.
+
+Joux's multiCollision # Function Calls: 2^------------------------------------------------11.8914
+Joux's multiCollision Takes time: --------------------------------------------------------0.0001 mins.
+
+simExpandM: success
+Simultaneous Expandable Massage # Function Calls: 2^--------------------------------------16.9854
+Simultaneous Expandable Massage Takes time: ----------------------------------------------0.00331667 mins.
+
+Hitting state in the second pass ---------------------------------------------------------Success.
+Hitting state in the second passHitting state in the second pass # Function Calls: 2^-----9.87805
+Hitting state in the second pass Takes time: ---------------------------------------------1.66667e-05 mins.
+
+Hitting two roots Simultaneously ---------------------------------------------------------Success.
+Hitting two roots Simultaneously # Function Calls: 2^-------------------------------------11.2538
+Hitting two roots Simultaneously Takes time: ---------------------------------------------1.66667e-05 mins.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 2 end with Success.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 3 start...
+Frequency: 0.41
+Frequency: 0.18
+Detect Largest Tree Root # Function Calls: 2^---------------------------------------------17.2992
+Detect Largest Tree Root Takes time: -----------------------------------------------------0.000716667 mins.
+
+Precomputation # Function Calls: 2^-------------------------------------------------------11.1611
+Precomputation Takes time: ---------------------------------------------------------------1.66667e-05 mins.
+
+Joux's multiCollision # Function Calls: 2^------------------------------------------------11.8914
+Joux's multiCollision Takes time: --------------------------------------------------------0.000116667 mins.
+
+simExpandM: success
+Simultaneous Expandable Massage # Function Calls: 2^--------------------------------------16.9854
+Simultaneous Expandable Massage Takes time: ----------------------------------------------0.00336667 mins.
+
+Hitting state in the second pass ---------------------------------------------------------Success.
+Hitting state in the second passHitting state in the second pass # Function Calls: 2^-----9.08215
+Hitting state in the second pass Takes time: ---------------------------------------------0 mins.
+
+Hitting two roots Simultaneously ---------------------------------------------------------Failure.
+Hitting two roots Simultaneously # Function Calls: 2^-------------------------------------12.031
+Hitting two roots Simultaneously Takes time: ---------------------------------------------3.33333e-05 mins.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 3 end with Failure.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 4 start...
+Frequency: 0.4
+Frequency: 0.16
+Detect Largest Tree Root # Function Calls: 2^---------------------------------------------17.3371
+Detect Largest Tree Root Takes time: -----------------------------------------------------0.000733333 mins.
+
+Precomputation # Function Calls: 2^-------------------------------------------------------11.0888
+Precomputation Takes time: ---------------------------------------------------------------1.66667e-05 mins.
+
+Joux's multiCollision # Function Calls: 2^------------------------------------------------11.8914
+Joux's multiCollision Takes time: --------------------------------------------------------0.000116667 mins.
+
+simExpandM: success
+Simultaneous Expandable Massage # Function Calls: 2^--------------------------------------16.9854
+Simultaneous Expandable Massage Takes time: ----------------------------------------------0.00353333 mins.
+
+Hitting state in the second pass ---------------------------------------------------------Success.
+Hitting state in the second passHitting state in the second pass # Function Calls: 2^-----11.4247
+Hitting state in the second pass Takes time: ---------------------------------------------3.33333e-05 mins.
+
+Hitting two roots Simultaneously ---------------------------------------------------------Success.
+Hitting two roots Simultaneously # Function Calls: 2^-------------------------------------11.3896
+Hitting two roots Simultaneously Takes time: ---------------------------------------------1.66667e-05 mins.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 4 end with Success.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 5 start...
+Frequency: 0.44
+Frequency: 0.16
+Detect Largest Tree Root # Function Calls: 2^---------------------------------------------17.3137
+Detect Largest Tree Root Takes time: -----------------------------------------------------0.000716667 mins.
+
+Precomputation # Function Calls: 2^-------------------------------------------------------11.1273
+Precomputation Takes time: ---------------------------------------------------------------3.33333e-05 mins.
+
+Joux's multiCollision # Function Calls: 2^------------------------------------------------11.8914
+Joux's multiCollision Takes time: --------------------------------------------------------0.000116667 mins.
+
+simExpandM: success
+Simultaneous Expandable Massage # Function Calls: 2^--------------------------------------16.9854
+Simultaneous Expandable Massage Takes time: ----------------------------------------------0.0034 mins.
+
+Hitting state in the second pass ---------------------------------------------------------Success.
+Hitting state in the second passHitting state in the second pass # Function Calls: 2^-----11.7482
+Hitting state in the second pass Takes time: ---------------------------------------------1.66667e-05 mins.
+
+Hitting two roots Simultaneously ---------------------------------------------------------Success.
+Hitting two roots Simultaneously # Function Calls: 2^-------------------------------------12.2351
+Hitting two roots Simultaneously Takes time: ---------------------------------------------3.33333e-05 mins.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 5 end with Success.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 6 start...
+Frequency: 0.54
+Frequency: 0.13
+Detect Largest Tree Root # Function Calls: 2^---------------------------------------------17.3784
+Detect Largest Tree Root Takes time: -----------------------------------------------------0.00075 mins.
+
+Precomputation # Function Calls: 2^-------------------------------------------------------11.0888
+Precomputation Takes time: ---------------------------------------------------------------1.66667e-05 mins.
+
+Joux's multiCollision # Function Calls: 2^------------------------------------------------11.823
+Joux's multiCollision Takes time: --------------------------------------------------------0.000133333 mins.
+
+simExpandM: success
+Simultaneous Expandable Massage # Function Calls: 2^--------------------------------------16.9854
+Simultaneous Expandable Massage Takes time: ----------------------------------------------0.0033 mins.
+
+Hitting state in the second pass ---------------------------------------------------------Success.
+Hitting state in the second passHitting state in the second pass # Function Calls: 2^-----10.6036
+Hitting state in the second pass Takes time: ---------------------------------------------1.66667e-05 mins.
+
+Hitting two roots Simultaneously ---------------------------------------------------------Failure.
+Hitting two roots Simultaneously # Function Calls: 2^-------------------------------------11.9352
+Hitting two roots Simultaneously Takes time: ---------------------------------------------3.33333e-05 mins.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 6 end with Failure.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 7 start...
+Frequency: 0.47
+Frequency: 0.17
+Detect Largest Tree Root # Function Calls: 2^---------------------------------------------17.3007
+Detect Largest Tree Root Takes time: -----------------------------------------------------0.000716667 mins.
+
+Precomputation # Function Calls: 2^-------------------------------------------------------11.0112
+Precomputation Takes time: ---------------------------------------------------------------1.66667e-05 mins.
+
+Joux's multiCollision # Function Calls: 2^------------------------------------------------11.8914
+Joux's multiCollision Takes time: --------------------------------------------------------0.000116667 mins.
+
+simExpandM: success
+Simultaneous Expandable Massage # Function Calls: 2^--------------------------------------16.9854
+Simultaneous Expandable Massage Takes time: ----------------------------------------------0.00341667 mins.
+
+Hitting state in the second pass ---------------------------------------------------------Success.
+Hitting state in the second passHitting state in the second pass # Function Calls: 2^-----10.5943
+Hitting state in the second pass Takes time: ---------------------------------------------1.66667e-05 mins.
+
+Hitting two roots Simultaneously ---------------------------------------------------------Success.
+Hitting two roots Simultaneously # Function Calls: 2^-------------------------------------11.3896
+Hitting two roots Simultaneously Takes time: ---------------------------------------------3.33333e-05 mins.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 7 end with Success.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 8 start...
+Frequency: 0.44
+Frequency: 0.18
+Detect Largest Tree Root # Function Calls: 2^---------------------------------------------17.2691
+Detect Largest Tree Root Takes time: -----------------------------------------------------0.0007 mins.
+
+Precomputation # Function Calls: 2^-------------------------------------------------------11.0203
+Precomputation Takes time: ---------------------------------------------------------------1.66667e-05 mins.
+
+Joux's multiCollision # Function Calls: 2^------------------------------------------------11.8914
+Joux's multiCollision Takes time: --------------------------------------------------------0.000116667 mins.
+
+simExpandM: success
+Simultaneous Expandable Massage # Function Calls: 2^--------------------------------------16.9854
+Simultaneous Expandable Massage Takes time: ----------------------------------------------0.00336667 mins.
+
+Hitting state in the second pass ---------------------------------------------------------Success.
+Hitting state in the second passHitting state in the second pass # Function Calls: 2^-----10.8138
+Hitting state in the second pass Takes time: ---------------------------------------------1.66667e-05 mins.
+
+Hitting two roots Simultaneously ---------------------------------------------------------Success.
+Hitting two roots Simultaneously # Function Calls: 2^-------------------------------------12.2639
+Hitting two roots Simultaneously Takes time: ---------------------------------------------3.33333e-05 mins.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 8 end with Success.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 9 start...
+Frequency: 0.4
+Frequency: 0.17
+Detect Largest Tree Root # Function Calls: 2^---------------------------------------------17.3053
+Detect Largest Tree Root Takes time: -----------------------------------------------------0.000733333 mins.
+
+Precomputation # Function Calls: 2^-------------------------------------------------------11.0647
+Precomputation Takes time: ---------------------------------------------------------------1.66667e-05 mins.
+
+Joux's multiCollision # Function Calls: 2^------------------------------------------------11.8914
+Joux's multiCollision Takes time: --------------------------------------------------------0.000133333 mins.
+
+simExpandM: success
+Simultaneous Expandable Massage # Function Calls: 2^--------------------------------------16.9854
+Simultaneous Expandable Massage Takes time: ----------------------------------------------0.00335 mins.
+
+Hitting state in the second pass ---------------------------------------------------------Success.
+Hitting state in the second passHitting state in the second pass # Function Calls: 2^-----10.5088
+Hitting state in the second pass Takes time: ---------------------------------------------1.66667e-05 mins.
+
+Hitting two roots Simultaneously ---------------------------------------------------------Failure.
+Hitting two roots Simultaneously # Function Calls: 2^-------------------------------------11.973
+Hitting two roots Simultaneously Takes time: ---------------------------------------------3.33333e-05 mins.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++   Attack 9 end with Failure.
+
+Attack success ratio: 0.6
+
