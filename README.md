@@ -17,11 +17,11 @@ In this simulation, we run 100 times of cycle search algorithm to detect the roo
 
 Examples of the simulation results are shown in the following (These are results of 10 times simulation):
 
-- [n16_attack_record.txt](https://github.com/FreeDisciplina/SecondPreimageAttackonZipper/Results/n16_attack_record.txt)
+- [n16_attack_record.txt](https://github.com/FreeDisciplina/SecondPreimageAttackonZipper/blob/main/Results/n16_attack_record.txt)
 
-- [n24_attack_record.txt](https://github.com/FreeDisciplina/SecondPreimageAttackonZipper/Results/n24_attack_record.txt)
+- [n24_attack_record.txt](https://github.com/FreeDisciplina/SecondPreimageAttackonZipper/blob/main/Results/n24_attack_record.txt)
 
-- [n32_attack_record.txt](https://github.com/FreeDisciplina/SecondPreimageAttackonZipper/Results/n32_attack_record.txt)
+- [n32_attack_record.txt](https://github.com/FreeDisciplina/SecondPreimageAttackonZipper/blob/main/Results/n32_attack_record.txt)
 
 ## References ##
 
